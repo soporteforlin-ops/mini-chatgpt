@@ -2,7 +2,7 @@ import streamlit as st
 from transformers import AutoModelForCausalLM, AutoTokenizer
 import torch
 
-st.set_page_config(page_title="Mini ChatGPT", page_icon="🤖")
+st.set_page_config(page_title="TECNO ChatGPT", page_icon="🤖")
 st.title("🤖 Mini ChatGPT con Videos")
 
 # 🎥 Preguntas con video de YouTube
