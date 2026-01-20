@@ -136,7 +136,3 @@ if st.button("Enviar") and user_input:
             "role": "bot",
             "content": response
         })
-
-
-            st.markdown(f"**🤖 Bot:** {response}")
-
